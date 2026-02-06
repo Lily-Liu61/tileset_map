@@ -2,7 +2,7 @@
 
 ## Web Map URL
 Access the web map here:  
-👉 
+👉 [Seattle Urban Analysis Map](https://Lily-Liu61.github.io/tileset_map/)
 
 ---
 
