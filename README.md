@@ -7,8 +7,7 @@ Access the web map here:
 ---
 
 ## Examined Geographic Area
-This project focuses on the **Seattle metropolitan area**, including the city of Seattle and its surrounding neighborhoods.  
-The map explores spatial patterns and environmental characteristics within this region.
+> This project focuses on the **Seattle metropolitan area**, including the city of Seattle and its surrounding neighborhoods. The project primarily consists of **four** layers, utilizing Mapbox for map visualization. The thematic layers include an exploration of rent prices in the Seattle area, as well as the coverage of national parks and land use areas, visually differentiated through different color schemes.
 
 ---
 
